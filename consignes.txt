@@ -1,0 +1,66 @@
+Travail à réaliser
+Le travail à réaliser se décompose en deux parties décrites ci-dessous. Il doit respecter les consignes de ce 
+cahier des charges et la charte graphique.
+Charte graphique à appliquer pour les deux parties du travail à réaliser :
+- Le titre « la byciclette» est composé avec la fonte  « Courgette».
+- La couleur du titre « la Marmite » est : « #fff ».
+- Le slogan « Régalez-vous » est composé avec la fonte  « Courgette».
+- La typographie pour tous les autres textes est « Roboto».
+- La couleur des pictogrammes est : « #fff ».
+- La couleur de fond du bloc vert « -20% » est : « #7ce204 »
+- La couleur de fond du bloc jaune «Achetez » est : « #fdd208 »
+- La couleur de fond du bloc rouge « Choisissez » est : « #fd4d08 ».
+- Ces 3 blocs ont le bord supérieur gauche et inférieur droit arrondis, comme sur la maquette.
+- La couleur de fond du header et du footer ainsi que celle du texte « À table en quelques clics ! »
+est : « #368fd5 »
+
+Ce qui n’est pas écrit est à votre appréciation, en restant cohérant avec le projet, la charte graphique et en 
+privilégiant la lisibilité et l’accessibilité
+
+
+
+
+Partie 1 : à partir de la maquette validée « bicycle.jpg » reproduire le design du site
+(Durée : 45 minutes maximum) La durée indiquée pour ce travail est donnée à titre indicatif pour vous aider à 
+gérer votre temps.
+Réalisez ce travail avec un logiciel de type Adobe Photoshop, sauf pour l’identité visuelle « La byciclette », en 
+étant attentif aux points suivants :
+- Rationaliser votre travail : réaliser d’abord le fichier adapté à l’impression que vous ré 
+échantillonnerez simplement pour le web en modifiant la résolution.
+- Utiliser un format de fichier de type « .psd » ou « .tiff », permettant de gérer et de sauvegarder les 
+calques.
+- Composer avec un logiciel de dessin vectoriel l’identité visuelle « Byclicle » en respectant la charte 
+graphique. Reproduire le pictogramme de la bycicle, trouver une police similaire pour le texte du logo.
+- Dans le header les textes « Choisir une marque» et « Choisir un type » seront des listes déroulantes de 
+formulaire sur la page web.
+- Adapter et incorporer le fichier « velo.jpg » qui est l’alternative statique à la vidéo « 
+Cycling.mp4 » que vous intégrerez dans la partie 2 du travail.
+- Mentionner les crédits dans le footer. (Voir plus bas).
+- Enregistrer le fichier dans le dossier « maquette_bycicle » sous le nom « design_bycicle_print » 
+et sa déclinaison au format de la maquette de validation « design_bycicle_web »
+- Dans la seconde partie du travail réaliser l’intégration en responsive de cette page d’accueil à partir 
+de la maquette. 
+Remarque : des retours utilisateurs indiquent que la position du lien de contact n’est pas du tout 
+ergonomique, tenez en compte
+
+Partie 2 : à partir du fichier « index.html » réaliser l’intégration de cette page d’accueil
+Il s’agit de reproduire au plus proche la maquette avec les langages HTML / CSS.
+L’intégration sera optimisée pour les ordinateurs de bureau, mais afin de présenter au directeur le principe 
+d'une évolution pour les périphériques mobiles, vous rendrez cette page web responsive avec un seul point 
+de rupture (breakpoint) pour les périphériques mobiles, au format portrait, et en tenant compte des consignes 
+spécifiques (cf. en bas de cette page). Prendre en compte les points suivants :
+- Créer une feuille de style nommée « bycicle.css » et coder les styles CSS.
+- Améliorer et adapter si nécessaire le code HTML 5 en tenant compte des standards du W3C.
+- Optimiser ce code pour le référencement naturel, notamment avec un titre et une description.
+- Optimiser la page pour les navigateurs Chrome et Firefox.
+Consignes spécifiques pour la version desktop
+- La largeur maximale de la page est : 1280 pixels. Pour les écrans plus larges, elle est centrée.
+- Intégrer la vidéo « Cycling.mp4 » elle doit être paramétrée pour se lire automatiquement.
+Consignes spécifiques pour la version mobile
+Cette ébauche de version mobile aura un point de rupture (breakpoint) à 480 pixels et ne conservera que les 
+éléments suivant : 
+- L’identité visuelle « la byciclette».
+- Les deux listes déroulantes du formulaire.
+Crédits : pour les pictogrammes; Olivier Guin, Adrien Coquet et Juli, from the Noun Project – licence 
+https://creativecommons.org/licenses/by/3.0/us/
+Tous les droits des auteurs respectifs sont réservés
